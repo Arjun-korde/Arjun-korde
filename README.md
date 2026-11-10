@@ -77,7 +77,6 @@
 <table width="100%">
 <tr>
 <td width="33%" valign="top"><h3><a href="https://github.com/Arjun-korde/Backend-Projects">Backend-Projects</a></h3><p>In this repo there are implementation of various backend projects</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/Ayush-khobragade0810/git-demo">git-demo</a></h3><p>A selected public project.</p><p><sub>Open source · ⭐ 0</sub></p></td>
 </tr>
 </table>
 
