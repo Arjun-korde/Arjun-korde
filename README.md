@@ -5,11 +5,11 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · arjun-korde</sub></p>
 <h1>Arjun Korde</h1>
-<h2>Frontend or full-stack engineer</h2>
-<p>Building useful software and sharing the work in public.</p>
-<p><strong>● Building and sharing work in public</strong></p>
-<p><sub>Building at CSMSS Chh. Shahu College of Engineering</sub></p>
-<p><a href="https://github.com/arjun-korde">GitHub</a></p>
+<h2>C++ Developer · Windows &amp; Qt 6</h2>
+<p>Modern C++ (C++17) developer focused on memory-efficient, performance-sensitive code and low-latency systems.</p>
+<p><strong>● Open to C++ developer roles · B.Tech CSE, graduating 2026</strong></p>
+<p><sub>C++ Windows Developer Intern at Webtech Developers Pvt. Ltd. · CSMSS Chh. Shahu College of Engineering</sub></p>
+<p><a href="https://github.com/arjun-korde">GitHub</a> · <a href="https://linkedin.com/in/arjun-korde4">LinkedIn</a> · <a href="mailto:arjunkorde2004@gmail.com">Email</a></p>
 </td>
 <td width="36%" valign="middle" align="center">
 <img src="https://avatars.githubusercontent.com/u/124449551?v=4" width="180" alt="Arjun Korde GitHub avatar" />
@@ -22,7 +22,7 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · C++ · TypeScript · HTML</p></td>
+<td width="33%" valign="top"><h3>Role fit</h3><p>C++ Developer · Qt 6 · CMake</p></td>
 <td width="33%" valign="top"><h3>Public proof</h3><p>10 repositories · 0 stars</p></td>
 <td width="33%" valign="top"><h3>Momentum</h3><p>108 contributions · 25 active days</p></td>
 </tr>
@@ -54,16 +54,23 @@
 <tr>
 <td width="58%" valign="top">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=arjun-korde&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F124449551%3Fv%3D4&repos=arjun-korde%2FCRM-backend-project%2Carjun-korde%2FBackend-Projects%2Carjun-korde%2Fgit-demo&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=arjun-korde&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F124449551%3Fv%3D4&repos=arjun-korde%2FCRM-backend-project%2Carjun-korde%2FBackend-Projects%2Carjun-korde%2Fgit-demo&v=recruiter-projects-1&mode=dark" width="100%" alt="Arjun Korde selected projects" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=arjun-korde&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F124449551%3Fv%3D4&repos=Arjun-korde%2FSecureVault%2CArjun-korde%2FScribe%2CArjun-korde%2FSmart-Folder-Scanner&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=arjun-korde&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F124449551%3Fv%3D4&repos=Arjun-korde%2FSecureVault%2CArjun-korde%2FScribe%2CArjun-korde%2FSmart-Folder-Scanner&v=recruiter-projects-1&mode=dark" width="100%" alt="Arjun Korde selected projects" />
 </picture>
 </td>
 <td width="42%" valign="top">
-<h3><a href="https://github.com/Arjun-korde/CRM-backend-project">CRM-backend-project</a></h3>
-<p>A selected public project.</p>
-<p><sub>JavaScript · ⭐ 0 · 🍴 0</sub></p>
-<p><a href="https://github.com/Arjun-korde/CRM-backend-project">Read the repository →</a></p>
+<h3><a href="https://github.com/Arjun-korde/SecureVault">SecureVault</a></h3>
+<p>Windows password manager in C++17 and Qt 6 with AES encryption, PostgreSQL storage (Qt SQL), and Chrome extension autofill over Native Messaging.</p>
+<p><sub>C++ · Qt 6 · PostgreSQL · CMake</sub></p>
+<p><a href="https://github.com/Arjun-korde/SecureVault">Read the repository →</a></p>
 </td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top"><h3><a href="https://github.com/Arjun-korde/Scribe">Scribe</a></h3><p>Notepad-style text editor for Windows built with C++20 and Qt 6.</p><p><sub>C++ · Qt 6</sub></p></td>
+<td width="50%" valign="top"><h3><a href="https://github.com/Arjun-korde/Smart-Folder-Scanner">Smart-Folder-Scanner</a></h3><p>C++ utility for scanning folders.</p><p><sub>C++</sub></p></td>
 </tr>
 </table>
 
